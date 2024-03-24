@@ -24,7 +24,7 @@ Welcome to my Business Intelligence Portfolio! This repository showcases my skil
 
 ## Key objectives :
 
-- Identify which vendor to keep and wich to get rid of
+- Identify which vendor to keep and the one with whom to end the collaboration
 
 ## Data discovery :
 
