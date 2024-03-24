@@ -28,9 +28,9 @@ All the datasets used in this project are extracted from the YugabyteDB GitHub r
 
 The following tables have been used in this project :
 
-orders — Contains product orders
-products— Contains products
-reviews — Contains product reviews
-users — Contains customer information
+- <b> orders — Contains product orders <b>
+- <b> products — Contains products <b>
+- <b> reviews — Contains product reviews <b>
+- <b> users — Contains customer information <b>
 
 
