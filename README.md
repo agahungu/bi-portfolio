@@ -22,6 +22,10 @@ Welcome to my Business Intelligence Portfolio! This repository showcases my skil
 
 # Project 1 : Retail store analysis
 
+## Key objectives :
+
+- Identify which vendor to keep and wich to get rid of
+
 ## Data discovery :
 
 All the datasets used in this project are extracted from the YugabyteDB GitHub repository.
@@ -35,7 +39,11 @@ The following tables have been used in this project :
 
 ## Data modeling : 
 
-One simple scenario to explain the model below : The user orders a reviewed product. 
+One simple scenario can explain the model below : The user orders a reviewed product. 
 
 ![screenshot.png](https://github.com/agahungu/bi-portfolio/blob/main/ERD_retail_store.png)
+
+## Data visualization : 
+
+![screenshot.png](https://github.com/agahungu/bi-portfolio/blob/main/Vendor_analysis_retail_store.png)
 
