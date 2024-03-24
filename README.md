@@ -33,4 +33,9 @@ The following tables have been used in this project :
 - <b> reviews — Contains product reviews <b>
 - <b> users — Contains customer information <b>
 
+## Data modeling : 
+
+One simple scenario to explain the model below : The user orders a reviewed product. 
+
+![screenshot.png](https://github.com/agahungu/bi-portfolio/blob/main/ERD_retail_store.png)
 
