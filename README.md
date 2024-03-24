@@ -20,9 +20,9 @@ Welcome to my Business Intelligence Portfolio! This repository showcases my skil
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-## Project 1 : Retail store analysis
+# Project 1 : Retail store analysis
 
-# Data discoevry :
+## Data discovery :
 
 All the datasets used in this project are extracted from the YugabyteDB GitHub repository.
 
@@ -32,3 +32,5 @@ orders — Contains product orders
 products— Contains products
 reviews — Contains product reviews
 users — Contains customer information
+
+
