@@ -19,3 +19,16 @@ Welcome to my Business Intelligence Portfolio! This repository showcases my skil
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+## Project 1 : Retail store analysis
+
+# Data discoevry :
+
+All the datasets used in this project are extracted from the YugabyteDB GitHub repository.
+
+The following tables have been used in this project :
+
+orders — Contains product orders
+products— Contains products
+reviews — Contains product reviews
+users — Contains customer information
