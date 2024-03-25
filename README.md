@@ -39,7 +39,7 @@ The following tables have been used in this project :
 
 ## Data modeling : 
 
-One simple scenario can explain the model below : The user orders a reviewed product. 
+One simple scenario can explain the model below : A user orders a reviewed product. 
 
 ![screenshot.png](https://github.com/agahungu/bi-portfolio/blob/main/ERD_retail_store.png)
 
